@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NivedithaH923
+- 👀 I’m interested in Java FullStact Development
+- 🌱 I’m currently Studing in GM Institue of Technology, Davangere
+- 📫 How to reach me via email - nivedithah923@gmail.com or via linkedin - https://www.linkedin.com/in/niveditha-h-12b2ab285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- ✨ My hobbies are listening to music, playing badminton, coding, and cooking.
+- 😊 Technicall skills are Java, Servlet, SpringBoot, JDBS, JSP, HTML, CSS, C, MySQL
+- 🖥 Familar with Windows, Linux
